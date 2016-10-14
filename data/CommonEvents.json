@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":231,"indent":0,"parameters":[100,"bunny03",0,0,426,25,100,100,255,0]},{"code":225,"indent":0,"parameters":[5,5,60,true]},{"code":231,"indent":0,"parameters":[100,"bunny04",0,0,426,25,100,100,255,0]},{"code":230,"indent":0,"parameters":[60]},{"code":231,"indent":0,"parameters":[100,"bunny01",0,0,426,25,100,100,255,0]},{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":2}
+]
